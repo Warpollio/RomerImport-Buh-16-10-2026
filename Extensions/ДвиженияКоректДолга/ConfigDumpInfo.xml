@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Configuration.ДвиженияКоректДолга" id="d0861d75-20e7-4cec-b838-cfc695fb5dd6" configVersion="0c158ce4942caf25292bda144f64c1587144eb4c"/>
+		<Metadata name="Document.КорректировкаДолга" id="d59071b5-60d2-4960-b87a-6f498dbe1f80" configVersion="fa2b35c8b8911988c37906349aa3d856e425dff5">
+			<Metadata name="Document.КорректировкаДолга.Attribute.РучнаяКорректировка" id="df42fbdc-025c-401d-b4ce-9a5088dbab24"/>
+		</Metadata>
+		<Metadata name="Document.КорректировкаДолга.ManagerModule" id="d59071b5-60d2-4960-b87a-6f498dbe1f80.2" configVersion="093d32ce907f591b349d514185b46dfca0837324"/>
+		<Metadata name="Document.КорректировкаДолга.ObjectModule" id="d59071b5-60d2-4960-b87a-6f498dbe1f80.0" configVersion="5c09dc817180223d10c62a02f294221400f3a47b"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="c7250e8d-8dfe-4422-a894-6bfa26780d4a" configVersion="7fce394b079b61beee7c7fd64508434f51158a33"/>
+		<Metadata name="Language.Русский" id="41469e7f-6026-45e6-9c77-9665dc40885c" configVersion="c0c07059d770cb3477abcb1a4e8e171d68528f9f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

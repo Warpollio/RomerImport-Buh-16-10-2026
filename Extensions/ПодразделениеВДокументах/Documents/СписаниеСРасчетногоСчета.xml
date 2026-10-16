@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Document uuid="6d24dcf5-b021-4bc6-92d2-7f5b24f5942a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СписаниеСРасчетногоСчета" category="Object">
+				<xr:TypeId>6b6ac69d-b748-4768-a618-44a83bb34a98</xr:TypeId>
+				<xr:ValueId>054e0981-1f17-4f55-a8a3-30403bfd0457</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СписаниеСРасчетногоСчета" category="Ref">
+				<xr:TypeId>9ff4b7fd-981a-4af1-a74b-174b7aa47901</xr:TypeId>
+				<xr:ValueId>cb6b2abe-01e9-42ce-a585-d6a4ef4f6287</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СписаниеСРасчетногоСчета" category="Selection">
+				<xr:TypeId>371f1541-71c5-48a3-b50b-cc27803abc57</xr:TypeId>
+				<xr:ValueId>2e5e8dd1-02a9-498b-a308-380c0cacc2cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СписаниеСРасчетногоСчета" category="List">
+				<xr:TypeId>cf9db95f-4aa0-4ac4-9e4f-79c985dbb724</xr:TypeId>
+				<xr:ValueId>ffcc9d1d-9012-417f-b219-ee2dad5b1716</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СписаниеСРасчетногоСчета" category="Manager">
+				<xr:TypeId>0ae6a66f-830a-439f-8cc5-dc71bfc8a441</xr:TypeId>
+				<xr:ValueId>ed42a8ee-7614-4bd9-8d35-385f64e8833d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СписаниеСРасчетногоСчета</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>31abe434-0545-476d-a656-dc1df7c9de81</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+			<Form>ФормаДокументаОднострочная</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="93e156b3-b76b-4389-bc5b-10df3d4b1326" configVersion="8b05ac8d4760f6d83345ca55557a51b7501aadef"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения" id="b3dd9a2d-7d6c-4980-8c3c-b40b708f7039" configVersion="c48e38373c371af9db486ee97395ae5d6a3b1c2e"/>
+		<Metadata name="Catalog.Контрагенты" id="b7470b22-6d59-4638-ab5e-0dae7a9ab4f9" configVersion="42b1af0dbe31dc911b0fba22e23f2d4ea3b6ed57"/>
+		<Metadata name="Catalog.Номенклатура" id="ff256e97-ca63-49e5-9e02-6c43c9a34748" configVersion="3aa0be89f81ca1cdd0ea3be7138727bf5729b300">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="2b44d51a-ed8b-4205-b47a-262372be47c1"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="d19569e9-3cee-4a60-85a2-f808128bde83"/>
+		</Metadata>
+		<Metadata name="Catalog.НомераГТД" id="cab7bec9-6fea-4949-992a-7c27a43c7cf6" configVersion="05ee3f0c029b8a89d7ccd583633bd6e092ca776d"/>
+		<Metadata name="Catalog.Организации" id="149fdcef-8046-44cd-a59b-66afec2a7cca" configVersion="a39bff792a0a6ab4d742e6b82de9ad83f991378d"/>
+		<Metadata name="Catalog.ПодразделенияОрганизаций" id="f81683d8-62e6-4a6a-97b4-5889e55d9385" configVersion="7e73f5d21d01a629b99c2c70f3678ed52c5e0875"/>
+		<Metadata name="Catalog.Пользователи" id="653b64f1-8a4e-4c3f-8da0-298b3be7ba97" configVersion="15bd0b39f43c8ee7a139dea5185ab68571d4dad4"/>
+		<Metadata name="Catalog.ПрочиеДоходыИРасходы" id="23b588e1-ba4b-4dad-bef7-8b835559a4b7" configVersion="97b2f7eaae95f5b110aab27eaee43afd1575c498"/>
+		<Metadata name="Catalog.СтраныМира" id="7db57184-6a05-450a-b38a-4df3f199deeb" configVersion="a39581bcb8890600d94556811afeb514c20de210"/>
+		<Metadata name="ChartOfAccounts.Хозрасчетный" id="c17a8bdd-0ce2-49f2-84dc-3c7e548792a5" configVersion="bf0780ebb6ec7f33a5a95b55852796bb22b3ad74"/>
+		<Metadata name="CommonModule.abc_ГТДИмпортКлиентСервер" id="026c0856-d94e-4501-8c4e-0d5cdb65f0d5" configVersion="6c55f16f314df92d90a88f25ba205cc62d29dda3"/>
+		<Metadata name="CommonModule.abc_ГТДИмпортКлиентСервер.Module" id="026c0856-d94e-4501-8c4e-0d5cdb65f0d5.0" configVersion="e536d9a1c12a4689ea9e372f7413f4f3d133eb72"/>
+		<Metadata name="CommonModule.ПодключаемыеКоманды" id="4013e752-f4a4-4965-b914-61e7908effd7" configVersion="eda54052679297d11b953ed939e7d8b559003003"/>
+		<Metadata name="CommonModule.ПодключаемыеКоманды.Module" id="4013e752-f4a4-4965-b914-61e7908effd7.0" configVersion="5f4346067f39f2c8b34109d4d7fc502c815b6e69"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="075d231d-8952-4746-b05d-6d5338201065" configVersion="750cedc2a70dc8f1ae403410cec1e62f0ce96ed8"/>
+		<Metadata name="CommonPicture.Отчеты" id="b753a9cf-0303-4285-af9d-76bb8677658e" configVersion="2c423f61cde04762361e4294b98e0be406743885"/>
+		<Metadata name="CommonPicture.СостоянияДокумента" id="66294f35-dead-40eb-bb3d-ea3fee9dacf4" configVersion="2a5fa081c9ecedd0ce65595d26c8c9bf888042d7"/>
+		<Metadata name="Configuration.abc_ЗаполнениеГТД" id="8720c7ef-3a42-4d2b-882f-0655bb1f68e3" configVersion="db33c017229b4e960762010827a1add57d88aeb0"/>
+		<Metadata name="Document.ГТДИмпорт" id="5c22379b-513b-4715-adab-70af00e0daa7" configVersion="e142eacc21c14b23502cc6eb7cdc13f3f64296f5">
+			<Metadata name="Document.ГТДИмпорт.Attribute.ТаможенныйСбор" id="0fb217df-b4d4-44f1-b005-c50251e39d2c"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.НомерРаздела" id="1bb2e8b4-5d2d-451c-b1ea-2a615b4649ec"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы" id="23252301-f0c1-44b5-9fc5-e0d7800c8073"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СчетУчета" id="30c034a0-68be-492b-9e76-fff56ad5cf03"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.СтатьяПрочихДоходовРасходов" id="31fd6a84-0a49-4e7c-a66d-5018ac4988e6"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.ДоговорКонтрагентаРегл" id="381242a4-6427-4bba-80c3-054fecd895ff"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СпособУчетаНДС" id="4733a04e-fbab-4003-8eb7-2a5ed3d11fa2"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СтатьяЗатратНУ" id="4a657dfb-a7cc-435a-8c68-358af2dc642e"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.СуммаНДС" id="50060af2-fa6a-429e-945d-2641a058709f"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.ПодразделениеОрганизации" id="52b0e743-5466-4307-9e8a-ba68c6fdd407"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.ПошлинаВВалюте" id="536e1a90-8694-4e1d-9f66-7bca868ba779"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СчетУчетаНУ" id="56546504-f5b5-470b-8cd6-4a5bea32d0a5"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.ДокументПартии" id="5c2b80a3-fe60-4b14-8ea0-eee7f0d987c9"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.НомерГТД" id="60790b87-bc20-4dc3-bfda-434591365eb1"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.ТаможенныйШтрафВал" id="60dee707-2ae6-42be-be24-e82a9ecbffcb"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СтранаПроисхождения" id="7b2d610b-20f1-4641-b847-90bfa68119f8"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СчетУчетаНДС" id="801049d7-1852-47fd-90bf-52bdf5cec520"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.ОтражениеВУСН" id="81c00062-3bc8-4ba3-8325-4c8d0afd87b5"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.ТаможенныйСборВал" id="9f71d788-e7eb-47e2-8d33-48229501b210"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.Комментарий" id="a231e0f2-c375-4e9c-a006-059f6061b197"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СуммаПошлины" id="a398714a-4792-4c34-9c28-9662adba44d7"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.Организация" id="a4bc627e-e042-4e91-b0f2-ed7d4625aacd"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.ТаможеннаяСтоимость" id="a8a41c9e-5bcc-4789-9f3a-a4d4db127b13"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.ДоговорКонтрагента" id="ad88f378-d66f-4feb-9a86-b3b8949f6582"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.Номенклатура" id="c5c7c219-5e54-4df3-9774-47b1898ed9b2"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.СтавкаПошлины" id="c951f145-f8b8-400b-99d4-d63900ac3114"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.НДСПредъявленКВычету" id="ca23ee93-9f6b-487d-9d67-07833ccda70f"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.УдалитьСчетУчетаРасходов" id="ce8f9a59-9a35-4404-85e4-51fe11730e31"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.СтавкаНДС" id="d14ef178-a252-4da7-a411-92576fc142a6"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.НДСВВалюте" id="d488d08c-9dff-4177-b747-60d433bb5edf"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.ТаможенныйШтраф" id="d7447dc9-9243-4384-b4f7-599efc3fd98e"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.ФактурнаяСтоимость" id="d7ab1a43-0113-4544-a654-bc7ddf2be090"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.СчетУчетаРасчетовСКонтрагентомВал" id="deb958be-28d0-472c-98bf-85a6e571640e"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.Ответственный" id="e15d75e4-b3ba-4548-8172-ca63b310f58d"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары" id="e8771acd-7fc4-4f94-a409-5edc26d0f4cd"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.Количество" id="f094c7bb-99b5-49e1-aaaf-ff4cc2ff9fe2"/>
+			<Metadata name="Document.ГТДИмпорт.Attribute.Контрагент" id="f629fbf1-7655-437b-bd2b-49e8f989e4db"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Товары.Attribute.СуммаНДС" id="f7a94af2-2fcf-44a6-8d13-e64cec2f1592"/>
+			<Metadata name="Document.ГТДИмпорт.TabularSection.Разделы.Attribute.СуммаПошлины" id="fbf67371-e5ad-4ded-930b-5d5eae98068e"/>
+		</Metadata>
+		<Metadata name="Document.ГТДИмпорт.Form.ФормаДокумента" id="17cd27be-abc0-40d2-bbf9-4111f9860617" configVersion="13f43661d87d804cea029965663a3751d1171b08"/>
+		<Metadata name="Document.ГТДИмпорт.Form.ФормаДокумента.Form" id="17cd27be-abc0-40d2-bbf9-4111f9860617.0" configVersion="c5c5ef3462b2ad3f98c1e09aa1e48a97e9e6644a"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="967bb092-def6-4268-956b-40bfdedb1c71" configVersion="f63c67e8587e2b57bc8e95ac6123eed29edcd214"/>
+		<Metadata name="Enum.ОтражениеВУСН" id="ffb66b1a-2bdb-4a5d-bd85-b208df8b7b16" configVersion="62f61a7982edb538fa0273d8c6f77639c2ada3f3">
+			<Metadata name="Enum.ОтражениеВУСН.EnumValue.Принимаются" id="d22a5df4-fb38-4f46-aa06-5dabcdd23144"/>
+			<Metadata name="Enum.ОтражениеВУСН.EnumValue.НеПринимаются" id="f7276404-185a-4241-8f2c-d32f7053e94f"/>
+		</Metadata>
+		<Metadata name="Enum.СпособыУчетаНДС" id="3632c7d5-a935-4490-a97a-a1283924239d" configVersion="8acd642521b94c3fdc14de0968a40366f268f75e"/>
+		<Metadata name="Enum.СтавкиНДС" id="748f65df-cf2e-4218-8b99-b568eb032fcc" configVersion="a451d53aa0b3c0a0f50221c602c6b90b873eecae"/>
+		<Metadata name="Language.Русский" id="36db3d1c-fb6e-476b-a43b-1a968ba4ed9c" configVersion="4c049018709a1ba828d2f6199eee503851500579"/>
+		<Metadata name="StyleItem.ТекстИнформационнойНадписи" id="f177a5bf-3af0-4f86-8f1c-db356dcc0dfc" configVersion="f2f27b0554918221df1b5257442c9acae47681fa"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

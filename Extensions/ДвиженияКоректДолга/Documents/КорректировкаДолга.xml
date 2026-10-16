@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Document uuid="d59071b5-60d2-4960-b87a-6f498dbe1f80">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КорректировкаДолга" category="Object">
+				<xr:TypeId>a1fbb674-9910-46b5-b810-c4d8735abc36</xr:TypeId>
+				<xr:ValueId>a3a8203a-0fac-4f37-a613-03bf6b600dbe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КорректировкаДолга" category="Ref">
+				<xr:TypeId>70bd8231-e1e9-4247-8d75-2a5ddd3334c9</xr:TypeId>
+				<xr:ValueId>65e701f8-87a0-4ff1-9be1-2b12894f5f02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КорректировкаДолга" category="Selection">
+				<xr:TypeId>ca20a904-981e-4c5e-a660-eb5b03f0b79a</xr:TypeId>
+				<xr:ValueId>83fbc2a7-5948-4467-aa79-64a3529e4db3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КорректировкаДолга" category="List">
+				<xr:TypeId>c511ed62-3312-42e3-8481-ce57185377fc</xr:TypeId>
+				<xr:ValueId>81882eff-3bf4-4c22-bc3c-37d202216a9a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КорректировкаДолга" category="Manager">
+				<xr:TypeId>2d2bc491-8c0f-4b56-a0ff-b90267c8a03e</xr:TypeId>
+				<xr:ValueId>bf47afbb-3d23-40e7-8ecb-8ebdb8178971</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:PropertyState>
+				<xr:Property>ObjectModule</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+			<xr:PropertyState>
+				<xr:Property>ManagerModule</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КорректировкаДолга</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>64dfc119-cedf-4455-9db1-476b51699985</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="df42fbdc-025c-401d-b4ce-9a5088dbab24">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>РучнаяКорректировка</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>76664827-1404-432d-bdeb-d7e8eb341fba</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

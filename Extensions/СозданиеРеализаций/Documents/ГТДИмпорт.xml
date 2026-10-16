@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Document uuid="a7bb8e05-932c-49f9-8419-223a50851055">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ГТДИмпорт" category="Object">
+				<xr:TypeId>5f55ba7e-2565-45f7-82f2-aed2a10f9054</xr:TypeId>
+				<xr:ValueId>da225ea6-db7b-4e5b-9fbc-8c5b6574e0dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ГТДИмпорт" category="Ref">
+				<xr:TypeId>51708a58-fcef-4f35-b884-8602d6d01516</xr:TypeId>
+				<xr:ValueId>6bbb2af1-d427-4ebb-87ed-5bf348e721fc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ГТДИмпорт" category="Selection">
+				<xr:TypeId>c258960a-a7b1-460c-8f55-bb4e444e5777</xr:TypeId>
+				<xr:ValueId>4439ab50-2737-4d62-b00f-9fa6fd4c2f9a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ГТДИмпорт" category="List">
+				<xr:TypeId>a22567c0-9013-4e17-a643-7e3f2594c6b1</xr:TypeId>
+				<xr:ValueId>5b6cef3a-ad09-4633-b3ec-0f11e0b2821e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ГТДИмпорт" category="Manager">
+				<xr:TypeId>c706cf4c-330d-48cb-be75-db8055299723</xr:TypeId>
+				<xr:ValueId>92c771f3-1b2a-416d-b6b8-4a831ff7c3b8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ГТДИмпорт</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7ff1a77b-071b-49fc-9c6c-00db9135c2c1</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

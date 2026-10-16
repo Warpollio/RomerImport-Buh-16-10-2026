@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Catalog uuid="23b588e1-ba4b-4dad-bef7-8b835559a4b7">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПрочиеДоходыИРасходы" category="Object">
+				<xr:TypeId>80d56e87-8d45-48c4-ae92-ade12b270d11</xr:TypeId>
+				<xr:ValueId>90b055a6-1068-42a1-ad9c-ec5801342b6d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПрочиеДоходыИРасходы" category="Ref">
+				<xr:TypeId>d10bdbe9-1288-402d-8133-c58c16bcee13</xr:TypeId>
+				<xr:ValueId>2da51b0d-89da-4771-9f35-bdf3c44986c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПрочиеДоходыИРасходы" category="Selection">
+				<xr:TypeId>81552910-60cf-4c91-a7cb-1e1e1729cca7</xr:TypeId>
+				<xr:ValueId>d14e26ba-e158-428f-a959-83e083956bc7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПрочиеДоходыИРасходы" category="List">
+				<xr:TypeId>47d08455-feea-4be4-bca2-ebd54ea578c1</xr:TypeId>
+				<xr:ValueId>7027efb4-c131-4496-8463-e5c0b1abdc97</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПрочиеДоходыИРасходы" category="Manager">
+				<xr:TypeId>b5970c89-19a5-42a8-9490-fb36e35d9c6f</xr:TypeId>
+				<xr:ValueId>793f4e10-e99f-422d-9847-509ef51bd317</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПрочиеДоходыИРасходы</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d55030db-19dd-4848-ae77-99ae38235f9d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

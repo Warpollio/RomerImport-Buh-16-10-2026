@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Document uuid="d0ea0670-867c-4ec0-9048-76c74575aba8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПоступлениеТоваровУслуг" category="Object">
+				<xr:TypeId>c4af9c17-bea7-4c3a-83f4-814b9d3086bc</xr:TypeId>
+				<xr:ValueId>113ade0f-c745-4d0d-95ab-5851cdb297f8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПоступлениеТоваровУслуг" category="Ref">
+				<xr:TypeId>e2de3fbb-0f11-487e-9212-b00307193f1c</xr:TypeId>
+				<xr:ValueId>9ed5fff4-5f66-45d2-a8d3-ffb8d429eb9b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеТоваровУслуг" category="Selection">
+				<xr:TypeId>216568fb-ee70-4344-805e-fd1752ebc243</xr:TypeId>
+				<xr:ValueId>1cc90f88-f9bc-47bc-a3d7-29187de09d5d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПоступлениеТоваровУслуг" category="List">
+				<xr:TypeId>cbf39907-4ac8-4737-8df5-16511242e44d</xr:TypeId>
+				<xr:ValueId>5ff30930-5be6-4d7c-bbe5-fea9432c75be</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПоступлениеТоваровУслуг" category="Manager">
+				<xr:TypeId>dd122b20-47f4-47f3-9a82-a017cc070ca6</xr:TypeId>
+				<xr:ValueId>8bf2c574-62d4-4625-8756-46cd4d714b09</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПоступлениеТоваровУслуг</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>37ec4311-be9a-4853-a06f-4bfc21e493a5</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокументаОбщая</Form>
+			<Form>ФормаДокументаТовары</Form>
+			<Form>ФормаДокументаУслуги</Form>
+			<Form>ФормаДокументаОсновныеСредства</Form>
+			<Form>ФормаДокументаАренда</Form>
+			<Form>ФормаДокументаТопливо</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

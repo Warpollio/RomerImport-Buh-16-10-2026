@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Configuration.бит_Доработки" id="ccd149e0-3877-4c13-90dd-b7bb59f0b933" configVersion="2cbc16416aeb42775c396bdaaead692fa3bd9576"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="bd7e467e-5ff6-45ff-b510-b241b306a3b5" configVersion="5c72f6b1c5739ca46b4e8c7b39be5e958d5ae8a1"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.ObjectModule" id="bd7e467e-5ff6-45ff-b510-b241b306a3b5.0" configVersion="53fabf2817f97d986b9cbb427798924e58a75e03"/>
+		<Metadata name="Document.СчетФактураВыданный" id="ce1cf33a-d519-492b-bc13-d6a60071b638" configVersion="20ccaa889173c9455256f7f2692943dae7d32991"/>
+		<Metadata name="Document.СчетФактураВыданный.ObjectModule" id="ce1cf33a-d519-492b-bc13-d6a60071b638.0" configVersion="a776ede7ff3dca95ef063f184a2e15e50fbb4260"/>
+		<Metadata name="DocumentNumerator.СчетФактурыВыданные" id="7406aa9a-f2f3-48d8-a4e1-447eb64240e7" configVersion="f5f41893726c935039b741aa2f3182a07bd97d70"/>
+		<Metadata name="Language.Русский" id="a881b616-4a59-4d92-81b1-06761ccdc6f7" configVersion="3da0025c0c17e8b9f8829a361cb42c70d48ac2fa"/>
+		<Metadata name="Role.бит_ОсновнаяРоль" id="e08363d0-2825-48e2-b083-6fc2cd0ee656" configVersion="951af7f75d0b794ae896b932946991328bca2cea"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

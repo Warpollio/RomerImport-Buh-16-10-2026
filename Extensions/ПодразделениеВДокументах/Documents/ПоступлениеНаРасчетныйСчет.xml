@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Document uuid="a6bc2d07-67a5-43e4-b2f9-cd1f401063b5">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПоступлениеНаРасчетныйСчет" category="Object">
+				<xr:TypeId>314cc10c-25b9-48e6-a3f1-ed82916cf2a2</xr:TypeId>
+				<xr:ValueId>8db591d9-3dc4-4953-98ce-635c1dc71c2b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПоступлениеНаРасчетныйСчет" category="Ref">
+				<xr:TypeId>02591a79-2abf-4a5d-a6fc-25b0e374a619</xr:TypeId>
+				<xr:ValueId>a4359165-ba5c-4865-a735-f941819935c6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеНаРасчетныйСчет" category="Selection">
+				<xr:TypeId>9de50604-31f3-4565-9c6d-a04cd1a27f30</xr:TypeId>
+				<xr:ValueId>f6f60f63-78a2-450f-ae85-e23dcdb886cc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПоступлениеНаРасчетныйСчет" category="List">
+				<xr:TypeId>fae9ec90-80db-430b-bb73-b52405980955</xr:TypeId>
+				<xr:ValueId>dc464e31-9781-4c9d-9e88-a8d1bfe07f30</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПоступлениеНаРасчетныйСчет" category="Manager">
+				<xr:TypeId>8189c174-ae36-4a29-b078-72f96293fc38</xr:TypeId>
+				<xr:ValueId>1ec863ba-5504-43c8-8376-2c9f2bf89850</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПоступлениеНаРасчетныйСчет</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d2ae4aee-94fe-4d92-976e-b939d3475235</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+			<Form>ФормаДокументаОднострочная</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>
